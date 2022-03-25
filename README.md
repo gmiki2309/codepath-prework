@@ -33,17 +33,15 @@ The following **optional** features are implemented:
 - [ ] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
-Added 3 difficulties, which simply set the size of the array that will be used for the pattern.
 
-- [ ] List anything else that you can get done to improve the app!
-      Add toggle buttons for customization
+- [x] Added 3 difficulties, which simply set the size of the array that will be used for the pattern.
 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](http://g.recordit.co/SUJNhtDDyH.gif)
 ![](http://g.recordit.co/nsiGU04ItU.gif)
-![](gif3-link-here)
+![](http://g.recordit.co/uN824VCVfX.gif)
 ![](gif4-link-here)
 
 ## Reflection Questions
