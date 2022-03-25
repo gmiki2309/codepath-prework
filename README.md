@@ -6,7 +6,7 @@ Submitted by: Gabriel Miki-Silva
 
 Time spent: 3 hours spent in total
 
-Link to project: https://dear-lean-club.glitch.me
+Link to project: https://glitch.com/edit/#!/dear-lean-club
 
 ## Required Functionality
 
