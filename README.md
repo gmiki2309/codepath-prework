@@ -1,2 +1,0 @@
-# codepath-prework
-Memory Game
