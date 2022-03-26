@@ -4,7 +4,7 @@
 
 Submitted by: Gabriel Miki-Silva
 
-Time spent: 3 hours spent in total
+Time spent: 5 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/dear-lean-club
 
@@ -60,7 +60,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/853f80801d44458093a26b3fc81260b3)
 
 ## License
 
